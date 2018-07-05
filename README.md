@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/12599965/42336128-fa6dda5c-8082-11e8-8dd5-e4860ed92c8f.png" align="right" />
+<img src="https://user-images.githubusercontent.com/12599965/42336164-1c29f0fe-8083-11e8-8428-424b88a90fc4.png" align="right" />
 
 # Maven Releaseinfo Macro 
 
