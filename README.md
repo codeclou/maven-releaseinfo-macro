@@ -9,6 +9,6 @@ This is the repository for the [Maven Releaseinfo Macro ](https://codeclou.io/pr
 -----
 
    * :bulb: [Usage Guide](https://codeclou.io/maven-releaseinfo-macro/redirect/?/latest/user-guide/)
-   * :bulb: [Issue-Tracker](https://github.com/codeclou/maven-releaseinfo-macro/issues)
+   * :bulb: [Support & Issue-Tracker](https://codeclou.io/maven-releaseinfo-macro/redirect/?/latest/issue-tracker/)
    * :bulb: [EULA](https://codeclou.io/maven-releaseinfo-macro/redirect/?/latest/license/)
    * :bulb: [Atlassian Marketplace](https://marketplace.atlassian.com/apps/1211884/maven-releaseinfo-macro)
