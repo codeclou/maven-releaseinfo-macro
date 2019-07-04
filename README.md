@@ -1,10 +1,11 @@
-<img src="https://user-images.githubusercontent.com/12599965/42336164-1c29f0fe-8083-11e8-8428-424b88a90fc4.png" align="right" />
+<img src="https://user-images.githubusercontent.com/12599965/60683287-45cfb000-9e97-11e9-96ea-27ad13349c0e.png" align="right" />
 
-# Maven Releaseinfo Macro 
-
-## for Atlassian Confluence®
+## Release Info for Confluence 
 
 This is the repository for the [Maven Releaseinfo Macro ](https://codeclou.io/products/maven-releaseinfo-macro/) for Atlassian Confluence® made by [codeclou.io](https://codeclou.io/).
+
+&nbsp;
+&nbsp;
 
 -----
 
