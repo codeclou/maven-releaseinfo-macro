@@ -2,7 +2,7 @@
 
 ## Release Info for Confluence 
 
-This is the repository for the [Maven Releaseinfo Macro ](https://codeclou.io/products/maven-releaseinfo-macro/) for Atlassian Confluence® made by [codeclou.io](https://codeclou.io/).
+This is the repository for the [Release Info](https://codeclou.io/products/maven-releaseinfo-macro/) for Confluence made by [codeclou.io](https://codeclou.io/).
 
 &nbsp;
 &nbsp;
