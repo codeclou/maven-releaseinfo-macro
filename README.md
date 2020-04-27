@@ -9,7 +9,7 @@ This is the repository for the [Release Info](https://codeclou.io/products/maven
 
 -----
 
-   * :bulb: [Usage Guide](https://codeclou.io/maven-releaseinfo-macro/redirect/?/latest/user-guide/)
-   * :bulb: [Support & Issue-Tracker](https://codeclou.io/maven-releaseinfo-macro/redirect/?/latest/issue-tracker/)
-   * :bulb: [EULA](https://codeclou.io/maven-releaseinfo-macro/redirect/?/latest/license/)
+   * :bulb: [Usage Guide](https://codeclou.io/release-info-for-confluence/latest/user-guide/get-started/)
+   * :bulb: [Support & Issue-Tracker](https://codeclou.io/release-info-for-confluence/latest/support/)
+   * :bulb: [EULA](https://codeclou.io/release-info-for-confluence/latest/license/)
    * :bulb: [Atlassian Marketplace](https://marketplace.atlassian.com/apps/1211884/maven-releaseinfo-macro)
